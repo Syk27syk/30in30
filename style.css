@@ -1,0 +1,22 @@
+/* test  CSS file */
+body {
+    background: lightblue;
+    font-size: 12px;
+}
+header {
+    width: 80%;
+}
+h1 {
+    color: blue;
+    font-size: 10px;
+    font-weight: 400;
+    width: 80%;
+    height: 10cm;
+    border-width: 5px;
+    animation-iteration-count: 5;
+    animation-duration: 750ms;
+    margin: 2px;
+}
+p {
+    color: #cc0066;  /* magenta */
+}
